@@ -2,7 +2,7 @@ import React from "react";
 export default function StdSection(){
     return(
         <div>
-            this will be list for all students
+            there are so many students in Vidya Bhawan Politechnic college
         </div>
     )
 }
